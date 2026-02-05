@@ -1,0 +1,2 @@
+# EDU_PYTHON_PANDAS_StartupInvest
+Исследовательский анализ стартапов
